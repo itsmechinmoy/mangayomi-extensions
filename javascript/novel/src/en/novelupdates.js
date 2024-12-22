@@ -11,7 +11,7 @@ const mangayomiSources = [{
   "dateFormat": "",
   "dateFormatLocale": "",
   "pkgPath": "novel/src/en/novelupdates.js",
-  "appMinVerReq": "0.4.0",
+  "appMinVerReq": "0.3.8",
   "isNsfw": false,
   "hasCloudflare": true
 }];
